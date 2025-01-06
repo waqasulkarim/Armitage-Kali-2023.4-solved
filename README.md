@@ -1,5 +1,7 @@
 # Armitage-Kali-2023.4-solved
+
 Error: **Unable to locate package armitage**
+
 Armitage is a front-end GUI of Metasploit. It is good for new learners of Cybersecurity & Ethical Hacking.
 It is a common issue that while we try to install armitage on Kali Linux then we get the error "Unable to locate package armitage". So, in order to solve this issue, we have to follow below steps:
 
@@ -25,4 +27,5 @@ armitage
 Y
 
 Now armitage has been installed & is ready to be used.
+
 Feel free to contact me if you face any issues waqasulkarim@gmail.com
